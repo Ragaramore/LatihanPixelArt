@@ -1,5 +1,5 @@
 # LatihanPixelArt
 
-ART YANG BAKAL DIBIKIN KEDEPANNYA
-- Kursi Souta 
+ART YANG BAKAL DIBIKIN KEDEPANNYA 
 - Bochi The Rock
+-
